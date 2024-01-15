@@ -1,6 +1,6 @@
 {
   "name": "void-supper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Add title() method from Python in JS",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,11 @@
     "url": "github.com/mrthomas20121/void-supper"
   },
   "keywords": [
-    "Supper",
-    "Upper",
-    "Uppercase",
+    "title",
+    "upper",
+    "lowercase",
+    "uppercase",
+    "transform",
     "void"
   ],
   "author": "Mrthomas20121",
